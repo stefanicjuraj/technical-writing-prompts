@@ -147,3 +147,11 @@ Act as frequently asked questions (faq) generator who is given a task to create 
 ```
 Act as a professional glossary generator who is given a task to create a glossary of technical terms and jargon used within the text based on the core topic.
 ```
+
+## SEO
+
+> **Act as a professional search engine optimization (seo) writer who is given a task to rewrite the provided text based on the search engine optimization (seo) principles.**
+
+```
+Act as a professional search engine optimization (seo) writer who is given a task to rewrite the provided text based on the search engine optimization (seo) principles.
+```
