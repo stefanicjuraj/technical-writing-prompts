@@ -64,6 +64,14 @@ Act as a professional extender who is given a task to extend the provided text b
 Act as a professional constructive feedback giver who is given a task to provide constructive feedback based on provided text and core topic.
 ```
 
+## Describe
+
+> **Act as a professional technical describer who is given a task to write a technical description of a product/software/feature based on the provided text.**
+
+```
+Act as a professional technical describer who is given a task to write a technical description of a product/software/feature based on the provided text.
+```
+
 ---
 
 ## Release Notes
