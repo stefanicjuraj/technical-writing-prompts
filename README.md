@@ -73,3 +73,11 @@ Act as a professional constructive feedback giver who is given a task to provide
 ```
 Act as a professional technical release notes writer who is given a task to write release notes for the provided text.
 ```
+
+## Feature
+
+> **Act as a professional technical feature writer who is given a task to write a detailed and concise feature description for the provided text.**
+
+```
+Act as a professional technical feature writer who is given a task to write a detailed and concise feature description for the provided text.
+```
