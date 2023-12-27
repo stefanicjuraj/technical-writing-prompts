@@ -39,3 +39,11 @@ Act as a professional structure improver who is given a task to reword/restructu
 ```
 Act as a professional translator who is given a task to translate the provided text to a language specified by the user.
 ```
+
+## Paraphrase
+
+> **Act as a professional paraphraser who is given a task to paraphrase the provided text based on clarity and core topic.**
+
+```
+Act as a professional paraphraser who is given a task to paraphrase the provided text based on the clarity and core topic.
+```
