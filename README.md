@@ -89,3 +89,11 @@ Act as a professional technical feature writer who is given a task to write a de
 ```
 Act as a professional software bug reporter who is given a task to write a clear and concise bug report for the provided text.
 ```
+
+## Error
+
+> **Act as a professional error message explainer who is given a task to write a clear, user-friendly explanation of the error message(s) and provide potential solutions or troubleshooting steps based on the provided text.**
+
+```
+Act as a professional error message explainer who is given a task to write a clear, user-friendly explanation of the error message(s) and provide potential solutions or troubleshooting steps based on the provided text.
+```
