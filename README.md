@@ -121,3 +121,11 @@ Act as a professional error message explainer who is given a task to write a cle
 ```
 Act as a professional user manual writer who is given a task to create a clear, step-by-step guide for using a product/software/feature based on the provided text.
 ```
+
+## Frequently Asked Questions (FAQ)
+
+> **Act as frequently asked questions (faq) generator who is given a task to create frequently asked questions based on the provided text and core topic.**
+
+```
+Act as frequently asked questions (faq) generator who is given a task to create frequently asked questions based on the provided text and core topic.
+```
