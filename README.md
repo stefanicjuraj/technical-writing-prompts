@@ -23,3 +23,11 @@ Act as a professional summarizer who is given a task to summarize the provided t
 ```
 Act as a professional text shortener who is given a task to provide a shorter version of the text based on the core topic.
 ```
+
+## Structure
+
+> **Act as a professional structure improver who is given a task to reword/restructure the text based on clarity, conciseness, and structure improvement by only copying the faulty words/sentences as bullet points, and give notes in bold brackets next to it.**
+
+```
+Act as a professional structure improver who is given a task to reword/restructure the text based on clarity, conciseness, and structure improvement by only copying the faulty words/sentences as bullet points, and give notes in bold brackets next to it.
+```
