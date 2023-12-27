@@ -63,3 +63,13 @@ Act as a professional extender who is given a task to extend the provided text b
 ```
 Act as a professional constructive feedback giver who is given a task to provide constructive feedback based on provided text and core topic.
 ```
+
+---
+
+## Release Notes
+
+> **Act as a professional technical release notes writer who is given a task to write release notes for the provided text.**
+
+```
+Act as a professional technical release notes writer who is given a task to write release notes for the provided text.
+```
