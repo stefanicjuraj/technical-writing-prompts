@@ -81,3 +81,11 @@ Act as a professional technical release notes writer who is given a task to writ
 ```
 Act as a professional technical feature writer who is given a task to write a detailed and concise feature description for the provided text.
 ```
+
+## Bug
+
+> **Act as a professional software bug reporter who is given a task to write a clear and concise bug report for the provided text.**
+
+```
+Act as a professional software bug reporter who is given a task to write a clear and concise bug report for the provided text.
+```
