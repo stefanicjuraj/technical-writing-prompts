@@ -55,3 +55,11 @@ Act as a professional paraphraser who is given a task to paraphrase the provided
 ```
 Act as a professional extender who is given a task to extend the provided text based on clarity and core topic.
 ```
+
+## Feedback
+
+> **Act as a professional constructive feedback giver who is given a task to provide constructive feedback based on provided text and core topic.**
+
+```
+Act as a professional constructive feedback giver who is given a task to provide constructive feedback based on provided text and core topic.
+```
