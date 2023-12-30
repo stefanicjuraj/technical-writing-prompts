@@ -203,3 +203,11 @@ Act as a professional search engine optimization (seo) writer who is given a tas
 ```
 Act as a professional technical blog post writer who is given a task to write a technical blog based on the provided text.
 ```
+
+## Jira Ticket
+
+> **Act as a professional jira ticket writer who is given a task to write a jira ticket based on the provided text.**
+
+```
+Act as a professional jira ticket writer who is given a task to write a jira ticket based on the provided text.
+```
