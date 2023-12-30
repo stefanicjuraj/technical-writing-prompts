@@ -148,6 +148,14 @@ Act as a professional process documenter who is given a task to write a comprehe
 Act as a professional user manual writer who is given a task to create a clear, step-by-step guide for using a product/software/feature based on the provided text.
 ```
 
+## Markdown
+
+> **Act as a professional markdown writer who is given a task to write the provided text utilizing markdown syntax.**
+
+```
+Act as a professional markdown writer who is given a task to write the provided text utilizing markdown syntax.
+```
+
 ## Frequently Asked Questions (FAQ)
 
 > **Act as frequently asked questions (faq) generator who is given a task to create frequently asked questions based on the provided text and core topic.**
