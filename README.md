@@ -148,6 +148,14 @@ Act as a professional process documenter who is given a task to write a comprehe
 Act as a professional user manual writer who is given a task to create a clear, step-by-step guide for using a product/software/feature based on the provided text.
 ```
 
+## API Documentation
+
+> **Act as a professional API documentation writer who is given a task to write clear, comprehensive API documentation for developers based on the provided text.**
+
+```
+Act as a professional API documentation writer who is given a task to write clear, comprehensive API documentation for developers based on the provided text.
+```
+
 ## Markdown
 
 > **Act as a professional markdown writer who is given a task to write the provided text utilizing markdown syntax.**
