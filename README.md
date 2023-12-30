@@ -156,6 +156,14 @@ Act as a professional user manual writer who is given a task to create a clear, 
 Act as a professional markdown writer who is given a task to write the provided text utilizing markdown syntax.
 ```
 
+## reStructuredText
+
+> **Act as a professional restructuredtext (rst) writer who is given a task to write the provided text utilizing restructuredtext syntax.**
+
+```
+Act as a professional restructuredtext (rst) writer who is given a task to write the provided text utilizing restructuredtext syntax.
+```
+
 ## Frequently Asked Questions (FAQ)
 
 > **Act as frequently asked questions (faq) generator who is given a task to create frequently asked questions based on the provided text and core topic.**
