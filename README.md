@@ -227,3 +227,11 @@ Act as a professional confluence page writer who is given a task to write a conf
 ```
 Act as a professional email writer who is given a task to write an email based on the provided text.
 ```
+
+## Active Voice
+
+> **Act as a professional active voice writer who is given a task to write the provided text using an active voice.**
+
+```
+Act as a professional active voice writer who is given a task to write the provided text using an active voice.
+```
