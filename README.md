@@ -212,6 +212,14 @@ Act as a professional technical blog post writer who is given a task to write a 
 Act as a professional jira ticket writer who is given a task to write a jira ticket based on the provided text.
 ```
 
+## Confluence Page
+
+> **Act as a professional confluence page writer who is given a task to write a confluence page based on the provided text.**
+
+```
+Act as a professional confluence page writer who is given a task to write a confluence page based on the provided text.
+```
+
 ## Email
 
 > **Act as a professional email writer who is given a task to write an email based on the provided text.**
