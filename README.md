@@ -195,3 +195,11 @@ Act as a professional glossary generator who is given a task to create a glossar
 ```
 Act as a professional search engine optimization (seo) writer who is given a task to rewrite the provided text based on the search engine optimization (seo) principles.
 ```
+
+## Blog Post
+
+> **Act as a professional technical blog post writer who is given a task to write a technical blog based on the provided text.**
+
+```
+Act as a professional technical blog post writer who is given a task to write a technical blog based on the provided text.
+```
