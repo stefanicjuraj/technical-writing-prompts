@@ -235,3 +235,11 @@ Act as a professional email writer who is given a task to write an email based o
 ```
 Act as a professional active voice writer who is given a task to write the provided text using an active voice.
 ```
+
+## Passive Voice
+
+> **Act as a professional passive voice writer who is given a task to write the provided text using an passive voice.**
+
+```
+Act as a professional passive voice writer who is given a task to write the provided text using an passive voice.
+```
