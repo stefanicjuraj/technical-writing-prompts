@@ -156,6 +156,14 @@ Act as a professional user manual writer who is given a task to create a clear, 
 Act as a professional API documentation writer who is given a task to write clear, comprehensive API documentation for developers based on the provided text.
 ```
 
+## User Experience (UX)
+
+> **Act as a professional user experience (ux) documentation writer who is given a task to create comprehensive user experience documentation based on the provided text.**
+
+```
+Act as a professional user experience (ux) documentation writer who is given a task to create comprehensive user experience documentation based on the provided text.
+```
+
 ## Markdown
 
 > **Act as a professional markdown writer who is given a task to write the provided text utilizing markdown syntax.**
