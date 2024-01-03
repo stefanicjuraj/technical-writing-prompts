@@ -164,6 +164,14 @@ Act as a professional API documentation writer who is given a task to write clea
 Act as a professional user experience (ux) documentation writer who is given a task to create comprehensive user experience documentation based on the provided text.
 ```
 
+## User Interface (UI)
+
+> **Act as a professional user interface (ui) documentation writer who is given a task to create comprehensive user interface documentation based on the provided text.**
+
+```
+Act as a professional user interface (ui) documentation writer who is given a task to create comprehensive user interface documentation based on the provided text.
+```
+
 ## Markdown
 
 > **Act as a professional markdown writer who is given a task to write the provided text utilizing markdown syntax.**
