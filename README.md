@@ -1,6 +1,6 @@
-# ChatGPT Prompts for Technical Writing
+# Technical Writing Prompts
 
-This repository is a curated collection of ChatGPT prompts tailored for technical writing. It aims to facilitate and enhance the quality of technical documentation by leveraging the advanced language model capabilities of ChatGPT. These prompts are designed to assist writers, educators, students, and professionals in generating high-quality technical content efficiently.
+This repository is a curated collection of prompts tailored for technical writing. It aims to facilitate and enhance the quality of technical documentation by leveraging the advanced language model capabilities of AI language models. These prompts are designed to assist writers, educators, students, and professionals in generating high-quality technical content efficiently.
 
 ## Proofread
 
